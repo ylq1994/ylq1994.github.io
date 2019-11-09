@@ -2,15 +2,15 @@
 
 #### 练习
 
- * 			[practice](lianxi.md) 
+ * 			[practice](markdown\lianxi.md) 
   
- *          [09](2019-11-09.md)
+ *          备用
 
 #### 随记
 
 *           2019
             * 11月
-            	*      [09](2019-11-09.md) 
-            	*      [09-1](workRecord.md) 
+            	* [09](markdown\2019-11-09.md) 
+            	* [09-1](markdown\workRecord.md) 
 
 
