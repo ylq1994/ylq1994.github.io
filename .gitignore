@@ -1,6 +1,0 @@
-*.gem
-*.lock
-.bundle
-.sass-cache
-CNAME
-test-site/

@@ -1,5 +1,0 @@
----
----
-
-
-[Jekyll](jekyll.md)
