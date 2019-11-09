@@ -5,9 +5,9 @@ kramdown:
 permalink: /posts/:categories/:title # 博文目录
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 
-title: 唯爱潇sunny
-url: https://ylq1994.github.io/Record/
-author: ylq
+title: wu-kan
+url: http://wu-kan.github.io
+author: WuK
 
 head: # 删改前确定知道自己在做什么
 - tag: meta # Enable responsiveness on mobile devices
@@ -175,31 +175,31 @@ sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
     img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br/>码农<br/>计科超算方向<br/><br/>ACM&ASC # 头像背后的信息
+    info: <br/>SYSU17级在读<br/>计科超算方向<br/>永远喜欢水野爱<br/>田宫例四驱车<br/>ACM&ASC # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
     class: 'fas fa-rss fa-fw'
-  - title: 862380433@qq.com # email
-    href: 862380433@qq.com
+  - title: wu.kan@foxmail.com # email
+    href: mailto:wu.kan@foxmail.com
     class: 'fas fa-envelope fa-fw'
-  # - title: WuK # codeforces
-  #   href: //codeforces.com/profile/WuK
-  #   class: 'fas fa-chart-bar fw'
-  # - title: WuK # vjudge
-  #   href: //vjudge.net/user/WuK
-  #   class: 'fas fa-smile fa-fw'
-  # - title: 942759535 # qq
-  #   class: 'fab fa-qq fa-fw'
-  # - title: Wu-_-Kan # weixin
-  #   class: 'fab fa-weixin fa-fw'
-  # - title: github
-  #   href: //github.com/wu-kan
-  #   class: 'fab fa-github fa-fw'
-  # - title: zhihu
-  #   href: //www.zhihu.com/people/wu.kan/activities
-  #   class: 'fab fa-zhihu fa-fw'
+  - title: WuK # codeforces
+    href: //codeforces.com/profile/WuK
+    class: 'fas fa-chart-bar fw'
+  - title: WuK # vjudge
+    href: //vjudge.net/user/WuK
+    class: 'fas fa-smile fa-fw'
+  - title: 942759535 # qq
+    class: 'fab fa-qq fa-fw'
+  - title: Wu-_-Kan # weixin
+    class: 'fab fa-weixin fa-fw'
+  - title: github
+    href: //github.com/wu-kan
+    class: 'fab fa-github fa-fw'
+  - title: zhihu
+    href: //www.zhihu.com/people/wu.kan/activities
+    class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
     href: /
@@ -248,7 +248,7 @@ sidebar:
     second: 秒
   copyright:
     enable: true
-    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star ylq1994/Record on GitHub" href="https://github.com/ylq1994/Record" data-icon="octicon-star" data-show-count="true">Star</a>'
+    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
 
 index:
   showtag:
