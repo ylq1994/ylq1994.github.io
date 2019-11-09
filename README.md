@@ -3,8 +3,8 @@
 
 
 # 目录
+## 练习操作
+* [practice](lianxi.md) 
 
-*
- [Introduction](README.md)
 
- [practice](lianxi.md) 
+## 随记
