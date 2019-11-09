@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 唯爱潇sunny
 ---
 ## 近期
 
-{% for post in site.posts limit:5 %}
+{% for post in site.markdown limit:5 %}
 
 - [{{ post.title }}]({{ post.url }}), *{{ post.date | date_to_string }}*
 
