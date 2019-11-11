@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://ylq1994.github.io/Record/
 date_format: "ordinal"
 title: 唯爱潇sunny
 subtitle: "打码改变人生"
@@ -18,9 +18,9 @@ side_bar_repo_limit: 5
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: ylq1994
+location: ZhengZhou, China
+email: 862380433@qq.com.com
 
 # ---------------- #
 #    Navigation    #
