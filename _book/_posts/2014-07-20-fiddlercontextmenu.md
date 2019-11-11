@@ -29,14 +29,14 @@ public static ContextAction("发送到 mazhuang.org")
 function DoSend2RootDomain(oSessions: Fiddler.Session[]){
     var oS: Session = FiddlerApplication.UI.GetFirstSelectedSession();
     if (null == oS) return;
-    if (oS.HostnameIs("www.mazhuang.org"))
+    if (oS.HostnameIs("ylq1994.github.io"))
     {
-        oS.hostname = "mazhuang.org";
+        oS.hostname = "ylq1994.github.io";
         FiddlerApplication.DoComposeByCloning(oS);
     }
     else
     {
-        MessageBox.Show("不是发往 www.mazhuang.org 的请求");
+        MessageBox.Show("不是发往 ylq1994.github.io 的请求");
     }
 }
 ```
