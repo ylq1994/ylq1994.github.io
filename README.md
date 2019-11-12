@@ -1,9 +1,9 @@
 # 码志
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://ylq1994.github.io/Record>，欢迎 Star 和 Fork。
 
 ## 概览
-
+#### *懒得改了，再说了人家写的挺好的~~~*
 <!-- vim-markdown-toc GFM -->
 
 * [效果预览](#效果预览)
