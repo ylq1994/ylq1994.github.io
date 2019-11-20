@@ -20,7 +20,7 @@ keywords: 小程序
 
 ![图1](https://raw.githubusercontent.com/ylq1994/PicBed/master/daily/qiniuResource.png)
 
-2. 在下图1的地方写上对应的路径[^路径],然后点击上传图片，图片统一名字为：
+2. 在下图1的地方写上对应的路径(易房大师:image/dingzhi/yfds-公司id/  ;房客多:image/dingzhi/fkd-城市id/),然后点击上传图片，图片统一名字为：
    * logo：http://img1.eeeff.com/+对应路径+logo.png
    * 登录页背景图：http://img1.eeeff.com/+对应路径+indeximg.png
    * 首页背景图：http://img1.eeeff.com/+对应路径+indeximg.png
@@ -65,4 +65,3 @@ keywords: 小程序
 
 ---
 
-[^路径]: 易房大师：image/dingzhi/yfds-公司id/  房客多：image/dingzhi/fkd-城市id/
