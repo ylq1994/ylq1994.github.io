@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: 定制小程序操作
-categories:小程序
+categories: 小程序
 description: 第三方定制小程序添加、升级等相关操作
 keywords: 小程序
 ---
