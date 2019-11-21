@@ -18,7 +18,7 @@ keywords: 小程序
 
 1. 控制台里点击上传文件，如下图。
 
-![图1](https://dev.tencent.com/u/ylq1994/p/PicBed/git/raw/master/daily/qiniuResource.png)
+![图1](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/qiniuResource.png)
 
 2. 在下图1的地方写上对应的路径(易房大师:image/dingzhi/yfds-公司id/  ;房客多:image/dingzhi/fkd-城市id/),然后点击上传图片，图片统一名字为：
    * logo：http://img1.eeeff.com/+对应路径+logo.png
@@ -26,7 +26,7 @@ keywords: 小程序
    * 首页背景图：http://img1.eeeff.com/+对应路径+indeximg.png
    * 分享展示图片：http://img1.eeeff.com/+对应路径+sharePic.png
 
-![](https://dev.tencent.com/u/ylq1994/p/PicBed/git/raw/master/daily/qiniuUploadImage.png)
+![](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/qiniuUploadImage.png)
 
 #### 提交
 
@@ -42,13 +42,13 @@ keywords: 小程序
 
 2. 上传完成后，登录[微信开放平台]( https://open.weixin.qq.com/cgi-bin/applist?t=manage/list&page=0&num=20&openapptype=2048&token=c2297d863c0c2093588c1012e2f5461bf2ce9cf2&lang=zh_CN )，如下图：
 
-   ![](https://dev.tencent.com/u/ylq1994/p/PicBed/git/raw/master/daily/wxKaiFangPingTai1.jpg)
+   ![](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/wxKaiFangPingTai1.jpg)
 
-   ![](https://dev.tencent.com/u/ylq1994/p/PicBed/git/raw/master/daily/wxKaiFangPingTai2.jpg)
+   ![](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/wxKaiFangPingTai2.jpg)
 
-   ![](https://dev.tencent.com/u/ylq1994/p/PicBed/git/raw/master/daily/wxKaiFangPingTai3.jpg)
+   ![](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/wxKaiFangPingTai3.jpg)
 
-   将提交到草稿箱的小程序添加到模板库后，在[后台]( http://122.114.19.234:5566/Home/Listviewdz)更新最新的模板id和版本号信息。![](https://dev.tencent.com/u/ylq1994/p/PicBed/git/raw/master/daily/wxKaiFangPingTai4.jpg)，然后再执行小程序版本更新的操作，否则提交审核的还是旧版本，==切记，先更新这里的版本信息，然后再执行升级操作==。
+   将提交到草稿箱的小程序添加到模板库后，在[后台]( http://122.114.19.234:5566/Home/Listviewdz)更新最新的模板id和版本号信息。![](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/wxKaiFangPingTai4.jpg)，然后再执行小程序版本更新的操作，否则提交审核的还是旧版本，==切记，先更新这里的版本信息，然后再执行升级操作==。
 
 ####  客户小程序提交
 
