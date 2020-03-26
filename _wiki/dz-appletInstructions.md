@@ -12,9 +12,9 @@ keywords: 小程序
 {:toc}
 ## 添加定制
 
-#### 联系设计出图
+#### 一 、联系设计出图
 
-#### [七牛]( https://portal.qiniu.com/signin?redirect=%2Fcreate )上传图片
+#### 二 、[七牛]( https://portal.qiniu.com/signin?redirect=%2Fcreate )上传图片
 
 1. 控制台里点击上传文件，如下图。
 
@@ -28,7 +28,7 @@ keywords: 小程序
 
 ![](https://cdn.jsdelivr.net/gh/ylq1994/PicBed@latest/daily/qiniuUploadImage.png)
 
-#### 提交
+#### 三 、提交
 
 [提交定制]( http://122.114.19.234:5566/Home/AddDZ ),根据页面提示，点击提交，成功后会生成授权二维码，发给客服让客户扫描即可，然后在[列表页](http://122.114.19.234:5566/Home/Listviewdz)
 
@@ -55,6 +55,7 @@ keywords: 小程序
 在[操作页]( http://122.114.19.234:5566/Home/Listviewdz )根据提示可以去完成相应操作，目前有的操作有：
 
 * 更新定制小程序。
+* 撤销小程序审核
 * 添加小程序插件
 * 查看审核状态
 * 更新后台记录模板id和版本id
